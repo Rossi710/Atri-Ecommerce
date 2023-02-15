@@ -1,0 +1,116 @@
+{
+  "burger_logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "food.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "loc.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone.svg": {
+    "mime": "image/svg+xml"
+  },
+  "envelope.svg": {
+    "mime": "image/svg+xml"
+  },
+  "b1.png": {
+    "mime": "image/png"
+  },
+  "b2.png": {
+    "mime": "image/png"
+  },
+  "b3.png": {
+    "mime": "image/png"
+  },
+  "b4.png": {
+    "mime": "image/png"
+  },
+  "b5.png": {
+    "mime": "image/png"
+  },
+  "b6.png": {
+    "mime": "image/png"
+  },
+  "b7.png": {
+    "mime": "image/png"
+  },
+  "b8.png": {
+    "mime": "image/png"
+  },
+  "big_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "left_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "pic.jpg": {
+    "mime": "image/jpeg"
+  },
+  "1_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "2_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "2_2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "2_3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "2_4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3_2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3_3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3_4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3_5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3_6.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
